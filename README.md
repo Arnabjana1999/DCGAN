@@ -1,4 +1,4 @@
-# DCGAN-Arnab
+# DCGAN
 Deep Convolution GAN for generating images from Fashion_MNIST dataset
 
 Run:-
